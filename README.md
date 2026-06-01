@@ -1,4 +1,4 @@
-# 📰 newsroom
+# 📰 portfolio
 
 > My second portfolio — built with a vintage newspaper aesthetic.
 
