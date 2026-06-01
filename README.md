@@ -2,7 +2,7 @@
 
 > My second portfolio — built with a vintage newspaper aesthetic.
 
-Live at **[auguxt.github.io/newsroom](https://auguxt.github.io/newsroom)**
+Live at **[auguxt.github.io/newsroom](https://auguxt.github.io/portfolio)**
 
 ---
 
